@@ -1,5 +1,6 @@
 codeunit 50100 UltimoOnGLEntryKP
 {
+    Permissions = tabledata 17 = rimd;
     trigger OnRun()
     var
         GLEntry: Record "G/L Entry";
@@ -11,7 +12,7 @@ codeunit 50100 UltimoOnGLEntryKP
         TotalEntries := GLEntry.Count();
         Counter := 0;
         ProgressDialog.OPEN(FORMAT(TotalEntries), Counter);
-        if GLEntry.find() then
+        if GLEntry.findfirst() then
             repeat
                 Counter += 1;
                 ProgressDialog.Update();
@@ -21,6 +22,5 @@ codeunit 50100 UltimoOnGLEntryKP
                         GLEntry.modify();
                     end;
             until GLEntry.Next() = 0
-
     end;
 }
