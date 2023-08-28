@@ -1,4 +1,4 @@
-tableextension 50102 GLBudgetEntryKP extends "G/L Budget Entry"
+tableextension 51001 GLBudgetEntryKP extends "G/L Budget Entry"
 {
     fields
     {

@@ -1,4 +1,4 @@
-tableextension 50100 GLEntryKP extends "G/L Entry"
+tableextension 51002 GLEntryKP extends "G/L Entry"
 {
     fields
     {

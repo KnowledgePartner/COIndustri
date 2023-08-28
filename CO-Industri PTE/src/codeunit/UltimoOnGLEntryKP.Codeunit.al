@@ -1,4 +1,4 @@
-codeunit 50100 UltimoOnGLEntryKP
+codeunit 51000 UltimoOnGLEntryKP
 {
     Permissions = tabledata 17 = rimd;
     trigger OnRun()

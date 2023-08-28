@@ -1,4 +1,4 @@
-report 50100 "Trial Balance/Budget KP"
+report 51000 "Trial Balance/Budget KP"
 {
     DefaultLayout = RDLC;
     RDLCLayout = 'src/layouts/TrialBalanceBudget.rdlc';

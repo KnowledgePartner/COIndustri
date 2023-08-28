@@ -1,4 +1,4 @@
-tableextension 50101 GLAccountKP extends "G/L Account"
+tableextension 51000 GLAccountKP extends "G/L Account"
 {
     fields
     {

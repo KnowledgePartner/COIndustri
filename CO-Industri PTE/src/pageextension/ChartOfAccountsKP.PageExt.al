@@ -1,4 +1,4 @@
-pageextension 50100 ChartOfAccountsKP extends "Chart of Accounts"
+pageextension 51000 ChartOfAccountsKP extends "Chart of Accounts"
 {
     actions
     {
