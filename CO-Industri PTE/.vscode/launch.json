@@ -24,7 +24,7 @@
             "startupObjectId": 22,
             "breakOnError": "All",
             "breakOnRecordWrite": "None",
-            "launchBrowser": true,
+            "launchBrowser": false,
             "enableSqlInformationDebugger": true,
             "enableLongRunningSqlStatements": true,
             "longRunningSqlStatementsThreshold": 500,

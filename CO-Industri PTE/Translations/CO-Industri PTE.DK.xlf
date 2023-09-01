@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="da-DK" original="CO-Industri PTE">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 275585677 - Method 1665861916 - NamedType 3950098385" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Progress from 0 to #1 - #2</source>
+          <target>Tæller fra 0 to #1 - #2</target>
+          <note from="Developer" annotates="general" priority="2">#1 is Total Entries and #2 is the Counter</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit UltimoOnGLEntryKP - Method OnRun - NamedType ProgressLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 1653612302" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <target>Balance</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType BalanceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Side</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 4118905601" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% of</source>
+          <target>% af</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType DiffAtDatePctCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 168139322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>% of</source>
+          <target>% af</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType DiffPctCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 1989043673" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Budget</source>
+          <target>Budget</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType GLAcc2__Budget_at_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 249023550" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Budget Filter</source>
+          <target>Budget Filter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType GLBudgetFilterCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 1336619019" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit</source>
+          <target>Debit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType G_L_Account___Balance_at_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 1780435116" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit</source>
+          <target>Kredit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType G_L_Account___Balance_at_Date__Control32CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 4247183771" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Budget</source>
+          <target>Budget</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType G_L_Account___Budgeted_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 961667924" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Debit</source>
+          <target>Debit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType G_L_Account___Net_Change_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 4087882494" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit</source>
+          <target>Kredit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType G_L_Account___Net_Change__Control28CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 998290390" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Net Change</source>
+          <target>Bevægelse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType Net_ChangeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 94175705" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Navn</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType PADSTR_____G_L_Account__Indentation___2___G_L_Account__NameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period: %1</source>
+          <target>Periode: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3293145198 - NamedType 1954605159" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Trial Balance/Budget</source>
+          <target>Balance/Budget</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Trial Balance/Budget CO - NamedType Trial_Balance_BudgetCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1824845211 - Field 2420863543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4274826855">
+          <source>Balance at Date (ex ultimo)</source>
+          <target>Saldo til dato (ex ultimo)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GLAccountKP - Field Balance at Date (ex ultimo) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1824845211 - Field 3487144490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4274826855">
+          <source>Budget at Date (ex ultimo)</source>
+          <target>Budget til dato (ex ultimo)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GLAccountKP - Field Budget at Date (ex ultimo) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1824845211 - Field 3009987830 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4274826855">
+          <source>Budgeted Amount (ex ultimo)</source>
+          <target>Budgetteret beløb (ex ultimo)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GLAccountKP - Field Budgeted Amount (ex ultimo) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1824845211 - Field 3054974125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4274826855">
+          <source>Net Change (ex ultimo)</source>
+          <target>Bevægelse (ex ultimo)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GLAccountKP - Field Net Change (ex ultimo) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 993856891 - Field 2583377602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2798690647">
+          <source>Ultimo</source>
+          <target>Ultimo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GLBudgetEntryKP - Field Ultimo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 471219504 - Field 2583377602 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2825951060">
+          <source>Ultimo</source>
+          <target>Ultimo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GLEntryKP - Field Ultimo - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
