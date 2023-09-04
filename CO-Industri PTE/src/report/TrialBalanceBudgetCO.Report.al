@@ -1,9 +1,9 @@
-report 51000 "Trial Balance/Budget KP"
+report 51000 "Trial Balance/Budget CO"
 {
     DefaultLayout = RDLC;
     RDLCLayout = 'src/layouts/TrialBalanceBudget.rdlc';
     ApplicationArea = Basic, Suite;
-    Caption = 'Trial Balance/Budget KP';
+    CaptionML = ENU = 'Trial Balance/Budget KP', DAN = 'Balance/Budget KP';
     PreviewMode = PrintLayout;
     UsageCategory = ReportsAndAnalysis;
 

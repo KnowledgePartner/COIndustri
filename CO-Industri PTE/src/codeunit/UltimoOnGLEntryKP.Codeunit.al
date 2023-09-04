@@ -4,14 +4,14 @@ codeunit 51000 UltimoOnGLEntryKP
     trigger OnRun()
     var
         GLEntry: Record "G/L Entry";
-        TotalEntries: Integer;
+        TotalEntries: Text;
         Counter: Integer;
         ProgressDialog: Dialog;
-    //ProgressLbl: Label 'Counting to #1 ------ #2', comment = '#1 is total entries, #2 is counter';
+        ProgressLbl: Label 'Progress from 0 to #1 - #2', Comment = '#1 is Total Entries and #2 is the Counter';
     begin
-        TotalEntries := GLEntry.Count();
+        TotalEntries := FORMAT(GLEntry.Count());
         Counter := 0;
-        ProgressDialog.OPEN(FORMAT(TotalEntries), Counter);
+        ProgressDialog.OPEN(ProgressLbl, TotalEntries, Counter);
         if GLEntry.findfirst() then
             repeat
                 Counter += 1;
