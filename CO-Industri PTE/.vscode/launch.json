@@ -29,7 +29,7 @@
             "enableLongRunningSqlStatements": true,
             "longRunningSqlStatementsThreshold": 500,
             "numberOfSqlStatements": 10,
-            "schemaUpdateMode": "Recreate"
+            "tenant": "6ab7066e-5929-4d12-8cf7-0d40ca6a0fd3"
         }
     ]
 }
